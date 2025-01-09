@@ -16,6 +16,10 @@
   <br />
 </p>
 
+<p align="center">
+    <img src="Informe/LOL.png">
+</p>
+
 ## Gestion de membresias
 
 Inscripción de Nuevos Clientes: Los administradores pueden registrar nuevos clientes ingresando sus datos personales y asignándoles una membresía específica (mensual, anual, etc.).
